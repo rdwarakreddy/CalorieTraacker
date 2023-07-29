@@ -1,0 +1,15 @@
+.card-text{
+    color: green;
+    font-weight: 900px;
+    font-family: 'Lobster', cursive;
+
+}
+.card-title{
+    font-weight: 900;
+    font-family: 'Lobster', cursive;
+}
+body{
+    background-color: red;
+}
+
+
